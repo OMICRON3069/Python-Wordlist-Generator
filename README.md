@@ -41,3 +41,11 @@ $ python3 wgen.py --chars=abc --min_length=1 --max_length=4 --output=output/word
 >
 > Therefore we with **EXPRESSLY** stating **NOT RESPONSIBLE** and **FREE FROM CLAIMS OF LAW**
 > for any misuse of script or code that we provide on this repository.
+
+### Add zip crack function
+
+```
+zipzip.py [-f --zFile] [-chr CHARS] [-min MIN_LENGTH] [-max MAX_LENGTH]
+-f --zFile zip file location
+```
+
